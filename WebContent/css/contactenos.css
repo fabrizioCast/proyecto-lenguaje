@@ -1,0 +1,37 @@
+/* SECCION CONTACTO */
+
+.contacto {
+    padding: 30px;
+    background-image: url(../img/contacto.jpg);
+    background-size: cover;
+}
+
+.formulario {
+    padding: 200px 300px;
+}
+
+.form-label {
+    color: red;
+}
+
+.form-check-label {
+    color: white;
+}
+
+.btn-primary { 	/*color de boton*/
+    color: black;
+    background-color: #faf55f;
+    border: 1px solid black;
+    transition: all .5s ease;
+}
+
+.btn-primary:hover {
+    color: black;
+    background-color: blue;
+    border: 1px black;
+}
+
+.form-check-input:checked {
+    background-color: rgba(52, 235, 146);
+    border: 1px solid rgba(52, 235, 146);
+}

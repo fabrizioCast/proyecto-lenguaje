@@ -1,0 +1,53 @@
+/* start-menu */
+.card {
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    margin-bottom: 30px;
+}
+#titulomenu{
+	color: white;
+}
+
+#card1{
+    background-color: #184e77 !important;
+    color: #fff;
+}
+#card2{
+    background-color: #1e6091 !important;
+    color: #fff;
+}
+#card3{
+    background-color: #1a759f !important;
+    color: #fff;
+}
+#card4{
+    background-color: #168aad !important;
+    color: #fff;
+}
+#card5{
+    background-color: #34a0a4 !important;
+    color: #fff;
+}
+#card6{
+    background-color: #52b69a !important;
+    color: #fff;
+}
+#card7{
+    background-color: #76c893 !important;
+    color: #fff;
+}
+
+.card .card-statistic-3 .card-icon-large .fas, .card .card-statistic-3 .card-icon-large .far, .card .card-statistic-3 .card-icon-large .fab, .card .card-statistic-3 .card-icon-large .fal {
+    font-size: 110px;
+}
+
+.card .card-statistic-3 .card-icon {
+    text-align: center;
+    line-height: 50px;
+    margin-left: 15px;
+    color: #000;
+    right: 5px;
+    top: 20px;
+    opacity: 0.2;
+}
